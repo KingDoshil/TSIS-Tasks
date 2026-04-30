@@ -1,0 +1,9 @@
+name,phone,phone_type,email,birthday,group
+Alice Johnson,+1-555-0101,mobile,alice@gmail.com,1990-04-15,Friend
+Bob Smith,+1-555-0202,work,bob@company.com,1985-11-30,Work
+Carol White,+1-555-0303,home,carol@gmail.com,1992-07-22,Family
+David Brown,+1-555-0404,mobile,david@outlook.com,1988-03-10,Work
+Eva Martinez,+1-555-0505,mobile,eva@gmail.com,1995-09-05,Friend
+Frank Lee,+1-555-0606,work,frank@company.com,1980-12-01,Work
+Grace Kim,,,grace@mail.com,,Other
+Henry Adams,+1-555-0808,home,henry@family.org,1975-06-18,Family
